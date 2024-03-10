@@ -1,24 +1,25 @@
 {
-  "Jacob Cro Hats Twins": [
-    {
-      "id": [
-        "JC849OSCP",
-        "JC848OSCP",
-        "JC846OSCP",
-        "JC845OSCP",
-        "JC844OSCP",
-        "JC843OSCP",
-        "JC841OSCP",
-        "JC836OSCP",
-        "JC832OSCP",
-        "JC837OSCP"
-      ],
-      "brand": "Jacob Cro",
-      "name": "Шапка бини Twins",
-      "price": "6000",
-      "colors": "Разноцветный",
-      "sizes": "One Size",
-      "images": [
+  "products": {
+    "Jacob Cro Hats Twins": [
+      {
+        "id": [
+          "JC849OSCP",
+          "JC848OSCP",
+          "JC846OSCP",
+          "JC845OSCP",
+          "JC844OSCP",
+          "JC843OSCP",
+          "JC841OSCP",
+          "JC836OSCP",
+          "JC832OSCP",
+          "JC837OSCP"
+        ],
+        "brand": "Jacob Cro",
+        "name": "Шапка бини Twins",
+        "price": "6000",
+        "colors": "Разноцветный",
+        "sizes": "One Size",
+        "images": [
         "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins01.jpg",
         "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins01.jpg",
         "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins01.jpg",
@@ -29,20 +30,21 @@
         "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins01.jpg",
         "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins01.jpg",
         "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins01.jpg"
-      ],
-      "URLProduct": [
-        "https://nuw.store/catalog/shapki/shapka_bini_twins_20-color-raznocvetnyj/",
-        "https://nuw.store/catalog/shapki/shapka_bini_twins_19-color-raznocvetnyj/",
-        "https://nuw.store/catalog/shapki/shapka_bini_twins_17-color-raznocvetnyj/",
-        "https://nuw.store/catalog/shapki/shapka_bini_twins_16-color-raznocvetnyj/",
-        "https://nuw.store/catalog/shapki/shapka_bini_twins_15-color-raznocvetnyj/",
-        "https://nuw.store/catalog/shapki/shapka_bini_twins_14-color-raznocvetnyj/",
-        "https://nuw.store/catalog/shapki/shapka_bini_twins_11-color-raznocvetnyj/",
-        "https://nuw.store/catalog/shapki/shapka_bini_twins_7/?g_widget=similar&g_page=product",
-        "https://nuw.store/catalog/shapki/shapka_bini_twins_3/?g_widget=similar&g_page=product",
-        "https://nuw.store/catalog/shapki/shapka_bini_twins_8/?g_widget=similar&g_page=product"
-      ],
-      "description": "- Jacob Cro – это московский бренд, исследующий и использующий в своих изделиях ремесленные техники. Дизайн с двумя паттернами. 55% хлопок, 45% полиакрил. Облегчённая мягкая пряжа. One Size Fits All. Швы на шапке полностью скрыты, её можно носить тремя разными способами. Handamde, Дополнит базовый гардероб. Оригинальный дизайнерский предмет повседневного гардероба. Support your locals."
-    }
-  ]
+        ],
+        "URLProduct": [
+          "https://nuw.store/catalog/shapki/shapka_bini_twins_20-color-raznocvetnyj/",
+          "https://nuw.store/catalog/shapki/shapka_bini_twins_19-color-raznocvetnyj/",
+          "https://nuw.store/catalog/shapki/shapka_bini_twins_17-color-raznocvetnyj/",
+          "https://nuw.store/catalog/shapki/shapka_bini_twins_16-color-raznocvetnyj/",
+          "https://nuw.store/catalog/shapki/shapka_bini_twins_15-color-raznocvetnyj/",
+          "https://nuw.store/catalog/shapki/shapka_bini_twins_14-color-raznocvetnyj/",
+          "https://nuw.store/catalog/shapki/shapka_bini_twins_11-color-raznocvetnyj/",
+          "https://nuw.store/catalog/shapki/shapka_bini_twins_7/?g_widget=similar&g_page=product",
+          "https://nuw.store/catalog/shapki/shapka_bini_twins_3/?g_widget=similar&g_page=product",
+          "https://nuw.store/catalog/shapki/shapka_bini_twins_8/?g_widget=similar&g_page=product"
+        ],
+        "description": "Длинное описание..."
+      }
+    ]
+  }
 }
