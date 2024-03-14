@@ -9,7 +9,9 @@
         "price": "6000",
         "colors": "Разноцветный",
         "sizes": "One Size",
-        "images": "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins01.jpg",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins01.jpg"
+        ],
         "URLProduct": "https://nuw.store/catalog/shapki/shapka_bini_twins_20-color-raznocvetnyj/",
         "description": "Длинное описание..."
       }
@@ -21,7 +23,9 @@
         "price": "6000",
         "colors": "Разноцветный",
         "sizes": "One Size",
-        "images": "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins02.jpg",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins02.jpg"
+        ],
         "URLProduct": "https://nuw.store/catalog/shapki/shapka_bini_twins_19-color-raznocvetnyj/",
         "description": "Длинное описание..."
       }
@@ -33,7 +37,9 @@
         "price": "6000",
         "colors": "Разноцветный",
         "sizes": "One Size",
-        "images": "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins03.jpg",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins03.jpg"
+        ],
         "URLProduct": "https://nuw.store/catalog/shapki/shapka_bini_twins_17-color-raznocvetnyj/",
         "description": "Длинное описание..."
       }
@@ -45,7 +51,9 @@
         "price": "6000",
         "colors": "Разноцветный",
         "sizes": "One Size",
-        "images": "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins04.jpg",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins04.jpg"
+        ],
         "URLProduct": "https://nuw.store/catalog/shapki/shapka_bini_twins_16-color-raznocvetnyj/",
         "description": "Длинное описание..."
       }
@@ -57,7 +65,9 @@
         "price": "6000",
         "colors": "Разноцветный",
         "sizes": "One Size",
-        "images": "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins05.jpg",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins05.jpg"
+        ],
         "URLProduct": "https://nuw.store/catalog/shapki/shapka_bini_twins_15-color-raznocvetnyj/",
         "description": "Длинное описание..."
       }
@@ -69,7 +79,9 @@
         "price": "6000",
         "colors": "Разноцветный",
         "sizes": "One Size",
-        "images": "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins06.jpg",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins06.jpg"
+        ],
         "URLProduct": "https://nuw.store/catalog/shapki/shapka_bini_twins_14-color-raznocvetnyj/",
         "description": "Длинное описание..."
       }
@@ -81,7 +93,9 @@
         "price": "6000",
         "colors": "Разноцветный",
         "sizes": "One Size",
-        "images": "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins07.jpg",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins07.jpg"
+        ],
         "URLProduct": "https://nuw.store/catalog/shapki/shapka_bini_twins_11-color-raznocvetnyj/",
         "description": "Длинное описание..."
       }
@@ -93,7 +107,9 @@
         "price": "6000",
         "colors": "Разноцветный",
         "sizes": "One Size",
-        "images": "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins08.jpg",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins08.jpg"
+        ],
         "URLProduct": "https://nuw.store/catalog/shapki/shapka_bini_twins_7/?g_widget=similar&g_page=product",
         "description": "Длинное описание..."
       }
@@ -105,7 +121,9 @@
         "price": "6000",
         "colors": "Разноцветный",
         "sizes": "One Size",
-        "images": "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins09.jpg",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins09.jpg"
+        ],
         "URLProduct": "https://nuw.store/catalog/shapki/shapka_bini_twins_3/?g_widget=similar&g_page=product",
         "description": "Длинное описание..."
       }
@@ -117,7 +135,9 @@
         "price": "6000",
         "colors": "Разноцветный",
         "sizes": "One Size",
-        "images": "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins10.jpg",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins10.jpg"
+        ],
         "URLProduct": "https://nuw.store/catalog/shapki/shapka_bini_twins_8/?g_widget=similar&g_page=product",
         "description": "Длинное описание..."
       }
@@ -131,7 +151,11 @@
         "price": "13400",
         "colors": "Черный",
         "sizes": ["S", "M", "L", "XL"],
-        "images": "доделать",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/GlebKostin.SolutionsSweaterBody01.jpg",
+          "https://nuw-store-server.vercel.app/images/GlebKostin.SolutionsSweaterBody02.jpg",
+          "https://nuw-store-server.vercel.app/images/GlebKostin.SolutionsSweaterBody03.jpg"
+        ],
         "URLProduct": "https://nuw.store/catalog/svitery_i_kardigany/sviter_body-color-chernyj/",
         "description": "Длинное описание..."
       }
@@ -145,12 +169,18 @@
         "price": "20000",
         "colors": "Черный",
         "sizes": "S",
-        "images": "доделать",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/RiceTrenchTwoBoard01.JPG",
+          "https://nuw-store-server.vercel.app/images/RiceTrenchTwoBoard02.JPG",
+          "https://nuw-store-server.vercel.app/images/RiceTrenchTwoBoard05.JPG",
+          "https://nuw-store-server.vercel.app/images/RiceTrenchTwoBoard03.JPG",
+          "https://nuw-store-server.vercel.app/images/RiceTrenchTwoBoard04.JPG"
+        ],
         "URLProduct": "https://nuw.store/catalog/verkhnyaya_odezhda/plashch_trench_two_board/?g_widget=looks&g_page=product",
         "description": "Длинное описание..."
       }
     ],
-    "": [
+    "Good & Well": [
       {
         "category" : "Сandle",
         "id" : "APOCAN6OZSOLSOY",
@@ -159,7 +189,9 @@
         "price": "4900",
         "colors": "Разноцветный",
         "sizes": "One Size",
-        "images": "доделать",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/GoodAndWellCandleSolstice.jpg"
+        ],
         "URLProduct": "https://nuw.store/catalog/drugoe/aromasvecha_solstice-color-raznocvetnyj/",
         "description": "Длинное описание..."
       }
@@ -171,7 +203,9 @@
         "price": "4900",
         "colors": "Разноцветный",
         "sizes": "One Size",
-        "images": "доделать",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/GoodAndWellCandleLumberjack.jpg"
+        ],
         "URLProduct": "https://nuw.store/catalog/drugoe/aromasvecha_lumberjack-color-raznocvetnyj/",
         "description": "Длинное описание..."
       }
@@ -183,7 +217,9 @@
         "price": "4900",
         "colors": "Разноцветный",
         "sizes": "One Size",
-        "images": "доделать",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/GoodAndWellCandleDusk.jpg"
+        ],
         "URLProduct": "https://nuw.store/catalog/drugoe/aromasvecha_dusk-color-raznocvetnyj/",
         "description": "Длинное описание..."
       }
@@ -195,7 +231,9 @@
         "price": "4900",
         "colors": "Разноцветный",
         "sizes": "One Size",
-        "images": "доделать",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/GoodAndWellCandleCascades.jpg"
+        ],
         "URLProduct": "https://nuw.store/catalog/drugoe/aromasvecha_cascades-color-raznocvetnyj/",
         "description": "Длинное описание..."
       }
@@ -207,7 +245,9 @@
         "price": "4900",
         "colors": "Разноцветный",
         "sizes": "One Size",
-        "images": "доделать",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/GoodAndWellCandleZion.jpg"
+        ],
         "URLProduct": "https://nuw.store/catalog/drugoe/aromasvecha_zion-color-raznocvetnyj/",
         "description": "Длинное описание..."
       }
@@ -219,7 +259,9 @@
         "price": "4900",
         "colors": "Разноцветный",
         "sizes": "One Size",
-        "images": "доделать",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/GoodAndWellCandleGreatSmokies.jpg"
+        ],
         "URLProduct": "https://nuw.store/catalog/drugoe/aromasvecha_great_smokies-color-raznocvetnyj/",
         "description": "Длинное описание..."
       }
@@ -231,7 +273,9 @@
         "price": "4900",
         "colors": "Разноцветный",
         "sizes": "One Size",
-        "images": "доделать",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/GoodAndWellCandleGreatBasin.jpg"
+        ],
         "URLProduct": "https://nuw.store/catalog/drugoe/aromasvecha_great_basin-color-raznocvetnyj/",
         "description": "Длинное описание..."
       }
@@ -243,7 +287,9 @@
         "price": "4900",
         "colors": "Разноцветный",
         "sizes": "One Size",
-        "images": "доделать",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/GoodAndWellCandleEverglades.jpg"
+        ],
         "URLProduct": "https://nuw.store/catalog/drugoe/aromasvecha_everglades-color-raznocvetnyj/",
         "description": "Длинное описание..."
       }
@@ -255,7 +301,9 @@
         "price": "4900",
         "colors": "Разноцветный",
         "sizes": "One Size",
-        "images": "доделать",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/GoodAndWellCandleDeathValley.jpg"
+        ],
         "URLProduct": "https://nuw.store/catalog/drugoe/aromasvecha_death_valley-color-raznocvetnyj/",
         "description": "Длинное описание..."
       }
@@ -267,7 +315,9 @@
         "price": "4900",
         "colors": "Разноцветный",
         "sizes": "One Size",
-        "images": "доделать",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/GoodAndWellCandleBryceCanyon.jpg"
+        ],
         "URLProduct": "https://nuw.store/catalog/drugoe/aromasvecha_bryce_canyon-color-raznocvetnyj/",
         "description": "Длинное описание..."
       }
@@ -279,7 +329,9 @@
         "price": "4900",
         "colors": "Разноцветный",
         "sizes": "One Size",
-        "images": "доделать",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/GoodAndWellCandleBiscayne.jpg"
+        ],
         "URLProduct": "https://nuw.store/catalog/drugoe/aromasvecha_biscayne-color-raznocvetnyj/",
         "description": "Длинное описание..."
       }
@@ -291,7 +343,9 @@
         "price": "4900",
         "colors": "Разноцветный",
         "sizes": "One Size",
-        "images": "доделать",
+        "images": [
+          "https://nuw-store-server.vercel.app/images/GoodAndWellCandleBigBend.jpg"
+        ],
         "URLProduct": "https://nuw.store/catalog/drugoe/aromasvecha_big_bend-color-raznocvetnyj/",
         "description": "Длинное описание..."
       }
