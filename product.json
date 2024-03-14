@@ -8,7 +8,7 @@
         "name": "Шапка бини Twins",
         "price": "6000",
         "colors": "Разноцветный",
-        "sizes": "One Size",
+        "sizes": ["One Size"],
         "images": [
           "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins01.jpg"
         ],
@@ -22,7 +22,7 @@
         "name": "Шапка бини Twins",
         "price": "6000",
         "colors": "Разноцветный",
-        "sizes": "One Size",
+        "sizes": ["One Size"],
         "images": [
           "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins02.jpg"
         ],
@@ -36,7 +36,7 @@
         "name": "Шапка бини Twins",
         "price": "6000",
         "colors": "Разноцветный",
-        "sizes": "One Size",
+        "sizes": ["One Size"],
         "images": [
           "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins03.jpg"
         ],
@@ -50,7 +50,7 @@
         "name": "Шапка бини Twins",
         "price": "6000",
         "colors": "Разноцветный",
-        "sizes": "One Size",
+        "sizes": ["One Size"],
         "images": [
           "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins04.jpg"
         ],
@@ -64,7 +64,7 @@
         "name": "Шапка бини Twins",
         "price": "6000",
         "colors": "Разноцветный",
-        "sizes": "One Size",
+        "sizes": ["One Size"],
         "images": [
           "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins05.jpg"
         ],
@@ -78,7 +78,7 @@
         "name": "Шапка бини Twins",
         "price": "6000",
         "colors": "Разноцветный",
-        "sizes": "One Size",
+        "sizes": ["One Size"],
         "images": [
           "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins06.jpg"
         ],
@@ -92,7 +92,7 @@
         "name": "Шапка бини Twins",
         "price": "6000",
         "colors": "Разноцветный",
-        "sizes": "One Size",
+        "sizes": ["One Size"],
         "images": [
           "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins07.jpg"
         ],
@@ -106,7 +106,7 @@
         "name": "Шапка бини Twins",
         "price": "6000",
         "colors": "Разноцветный",
-        "sizes": "One Size",
+        "sizes": ["One Size"],
         "images": [
           "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins08.jpg"
         ],
@@ -120,7 +120,7 @@
         "name": "Шапка бини Twins",
         "price": "6000",
         "colors": "Разноцветный",
-        "sizes": "One Size",
+        "sizes": ["One Size"],
         "images": [
           "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins09.jpg"
         ],
@@ -134,7 +134,7 @@
         "name": "Шапка бини Twins",
         "price": "6000",
         "colors": "Разноцветный",
-        "sizes": "One Size",
+        "sizes": ["One Size"],
         "images": [
           "https://nuw-store-server.vercel.app/images/JacobCroHatsTwins10.jpg"
         ],
@@ -168,7 +168,7 @@
         "name": "Плащ TRENCH TWO BOARD",
         "price": "20000",
         "colors": "Черный",
-        "sizes": "S",
+        "sizes": ["S"],
         "images": [
           "https://nuw-store-server.vercel.app/images/RiceTrenchTwoBoard01.JPG",
           "https://nuw-store-server.vercel.app/images/RiceTrenchTwoBoard02.JPG",
@@ -188,7 +188,7 @@
         "name": "Аромасвеча SOLSTICE",
         "price": "4900",
         "colors": "Разноцветный",
-        "sizes": "One Size",
+        "sizes": ["One Size"],
         "images": [
           "https://nuw-store-server.vercel.app/images/GoodAndWellCandleSolstice.jpg"
         ],
@@ -202,7 +202,7 @@
         "name": "Аромасвеча LUMBERJACK",
         "price": "4900",
         "colors": "Разноцветный",
-        "sizes": "One Size",
+        "sizes": ["One Size"],
         "images": [
           "https://nuw-store-server.vercel.app/images/GoodAndWellCandleLumberjack.jpg"
         ],
@@ -216,7 +216,7 @@
         "name": "Аромасвеча DUSK",
         "price": "4900",
         "colors": "Разноцветный",
-        "sizes": "One Size",
+        "sizes": ["One Size"],
         "images": [
           "https://nuw-store-server.vercel.app/images/GoodAndWellCandleDusk.jpg"
         ],
@@ -230,7 +230,7 @@
         "name": "Аромасвеча CASCADES",
         "price": "4900",
         "colors": "Разноцветный",
-        "sizes": "One Size",
+        "sizes": ["One Size"],
         "images": [
           "https://nuw-store-server.vercel.app/images/GoodAndWellCandleCascades.jpg"
         ],
@@ -244,7 +244,7 @@
         "name": "Аромасвеча ZION",
         "price": "4900",
         "colors": "Разноцветный",
-        "sizes": "One Size",
+        "sizes": ["One Size"],
         "images": [
           "https://nuw-store-server.vercel.app/images/GoodAndWellCandleZion.jpg"
         ],
@@ -258,7 +258,7 @@
         "name": "Аромасвеча GREAT SMOKIES",
         "price": "4900",
         "colors": "Разноцветный",
-        "sizes": "One Size",
+        "sizes": ["One Size"],
         "images": [
           "https://nuw-store-server.vercel.app/images/GoodAndWellCandleGreatSmokies.jpg"
         ],
@@ -272,7 +272,7 @@
         "name": "Аромасвеча GREAT BASIN",
         "price": "4900",
         "colors": "Разноцветный",
-        "sizes": "One Size",
+        "sizes": ["One Size"],
         "images": [
           "https://nuw-store-server.vercel.app/images/GoodAndWellCandleGreatBasin.jpg"
         ],
@@ -286,7 +286,7 @@
         "name": "Аромасвеча EVERGLADES",
         "price": "4900",
         "colors": "Разноцветный",
-        "sizes": "One Size",
+        "sizes": ["One Size"],
         "images": [
           "https://nuw-store-server.vercel.app/images/GoodAndWellCandleEverglades.jpg"
         ],
@@ -300,7 +300,7 @@
         "name": "Аромасвеча DEATH VALLEY",
         "price": "4900",
         "colors": "Разноцветный",
-        "sizes": "One Size",
+        "sizes": ["One Size"],
         "images": [
           "https://nuw-store-server.vercel.app/images/GoodAndWellCandleDeathValley.jpg"
         ],
@@ -314,7 +314,7 @@
         "name": "Аромасвеча BRYCE CANYON",
         "price": "4900",
         "colors": "Разноцветный",
-        "sizes": "One Size",
+        "sizes": ["One Size"],
         "images": [
           "https://nuw-store-server.vercel.app/images/GoodAndWellCandleBryceCanyon.jpg"
         ],
@@ -328,7 +328,7 @@
         "name": "Аромасвеча BISCAYNE",
         "price": "4900",
         "colors": "Разноцветный",
-        "sizes": "One Size",
+        "sizes": ["One Size"],
         "images": [
           "https://nuw-store-server.vercel.app/images/GoodAndWellCandleBiscayne.jpg"
         ],
@@ -342,7 +342,7 @@
         "name": "Аромасвеча BIG BEND",
         "price": "4900",
         "colors": "Разноцветный",
-        "sizes": "One Size",
+        "sizes": ["One Size"],
         "images": [
           "https://nuw-store-server.vercel.app/images/GoodAndWellCandleBigBend.jpg"
         ],
